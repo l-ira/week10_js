@@ -1,0 +1,24 @@
+.image-buttons{
+    display: flex;
+    width: 420px;
+    justify-content: space-between;
+    margin: 0 auto;
+    margin-top: 20px;
+
+}
+
+img{
+    display: block;
+    width: 420px;
+    margin: auto;
+}
+
+button{
+    height: 40px;
+    width: 150px;
+    margin: 0;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(250, 171, 25);
+    cursor: pointer;
+}
